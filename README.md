@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-    <a href="www.linkedin.com/in/matteomastropasqua">
+    <a href="http://www.linkedin.com/in/matteomastropasqua">
         <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/linkedin.svg" width=20px height=20px alt="linkedin: www.linkedin.com/in/matteomastropasqua">
         </a>&nbsp;
     <a href="mailto:mastropasquamatteo@gmail.com">
@@ -27,6 +27,6 @@
 - 📫 How to reach me: [write me an email](mailto:mastropasquamatteo@gmail.com) or you can drop me a message on my social pages <br />
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-matteomastropasqua-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matteomastropasqua)](www.linkedin.com/in/matteomastropasqua) 
+[![Linkedin Badge](https://img.shields.io/badge/-matteomastropasqua-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matteomastropasqua)](http://www.linkedin.com/in/matteomastropasqua) 
 --- 
 
