@@ -13,7 +13,14 @@ I build reporting that people actually use and numbers that hold up when someone
 
 ## Projects
 
-**[Live demo: QMS dashboard](https://mastropasquamatteo.github.io/qms-analytics/)**, an interactive quality dashboard that runs in the browser.
+<a href="https://mastropasquamatteo.github.io/qms-analytics/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/qms-dashboard-dark.png">
+    <img alt="QMS dashboard: KPIs and weekly p-chart" src="assets/qms-dashboard-light.png">
+  </picture>
+</a>
+
+**[Live demo: QMS dashboard](https://mastropasquamatteo.github.io/qms-analytics/)**, an interactive quality dashboard that runs in the browser. Click the image to open it.
 
 | Project | What it shows | Stack |
 |---|---|---|
