@@ -11,6 +11,18 @@ I build reporting that people actually use and numbers that hold up when someone
 - **Multi-source reconciliation.** Most of my work is making Salesforce, SQL Server, SAP, Jira and the usual pile of Excel files agree with each other, and explaining why they don't when they don't.
 - **Quality background.** Before data I spent about 10 years in Quality Assurance on ISO 9001, 14001, 45001 and 13485 systems. I treat data the same way: defined requirements, controls, traceability.
 
+## Projects
+
+**[Live demo: QMS dashboard](https://mastropasquamatteo.github.io/qms-analytics/)**, an interactive quality dashboard that runs in the browser.
+
+| Project | What it shows | Stack |
+|---|---|---|
+| [revenue-reconciliation](https://github.com/mastropasquamatteo/revenue-reconciliation) | Record-level reconciliation of CRM, ERP and data warehouse revenue. Totals that look fine can hide EUR 965k of offsetting errors. | SQL, Python |
+| [qms-analytics](https://github.com/mastropasquamatteo/qms-analytics) | Quality data for an ISO 13485 manufacturer: a p-chart that catches what the yearly KPI missed, Pareto, CAPA effectiveness, audit findings. | SQL, Python, JavaScript |
+| [ml-notebooks-2023](https://github.com/mastropasquamatteo/ml-notebooks-2023) | Two end-to-end machine learning notebooks, with a review of what I would do differently today. | Python, scikit-learn |
+
+All project data is synthetic or public. Nothing comes from an employer.
+
 ## Stack
 
 | Area | Tools |
