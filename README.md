@@ -1,32 +1,32 @@
-
-
 # Matteo Mastropasqua
-> Business Analyst, Machine Learning and Data Science passionate.
 
-<br />
-<br />
+**Senior Data Analyst · Business Intelligence · Data Quality**
+Remote, based in Italy · [LinkedIn](https://www.linkedin.com/in/matteomastropasqua) · mastropasquamatteo [at] gmail [dot] com
 
-<h2 align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px"> Hello, I'm Matteo!
-</h2>
+I build reporting that people actually use and numbers that hold up when someone checks them.
 
-<p align="center">
-    <a href="http://www.linkedin.com/in/matteomastropasqua">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/linkedin.svg" width=20px height=20px alt="linkedin: www.linkedin.com/in/matteomastropasqua">
-        </a>&nbsp;
-    <a href="mailto:mastropasquamatteo@gmail.com">
-        <img src="https://raw.githubusercontent.com/mzjp2/mzjp2/master/icons/mail.svg" width=20px height=20px alt="email">
-        </a>
-</p>
+## What I do
 
+- **BI in production.** I run about 25 dashboards in Tableau and Power BI, used by around 70 people across Sales, Operations and leadership.
+- **Multi-source reconciliation.** Most of my work is making Salesforce, SQL Server, SAP, Jira and the usual pile of Excel files agree with each other, and explaining why they don't when they don't.
+- **Quality background.** Before data I spent about 10 years in Quality Assurance on ISO 9001, 14001, 45001 and 13485 systems. I treat data the same way: defined requirements, controls, traceability.
 
-- 🔭 I’m currently a Business Data Analyst!
-- 📈 I love finding data patterns and turn them into effective data visualisations.
-- ❤ I'm a machine learning and data science passionate.
-- 🌱 I’m always eager to learn.
-- 📫 How to reach me: [write me an email](mailto:mastropasquamatteo@gmail.com) or you can drop me a message on my social pages <br />
+## Stack
 
+| Area | Tools |
+|---|---|
+| Query & modelling | SQL (SQL Server, T-SQL), SOQL, Power Query (M), DAX |
+| BI | Power BI, Tableau (Desktop and Server) |
+| Analysis | Python (pandas, Jupyter), Excel |
+| Sources I work with daily | Salesforce, SAP, Jira, SQL Server |
 
+## Work with me
+
+Open to data roles and to freelance work on:
+
+- BI dashboards and data models in Power BI or Tableau
+- reconciling reports that don't match across systems
+- KPI and reporting for ISO-certified quality management systems
 [![Linkedin Badge](https://img.shields.io/badge/-matteomastropasqua-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matteomastropasqua)](http://www.linkedin.com/in/matteomastropasqua) 
 --- 
 
