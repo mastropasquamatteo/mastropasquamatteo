@@ -1,7 +1,7 @@
 # Matteo Mastropasqua
 
 **Senior Data Analyst · Business Intelligence · Data Quality**
-Remote, based in Italy · [LinkedIn](https://www.linkedin.com/in/matteomastropasqua) · mastropasquamatteo [at] gmail [dot] com
+Remote, based in Italy · [LinkedIn](https://www.linkedin.com/in/matteomastropasqua) · [Email](mailto:mastropasquamatteo@gmail.com)
 
 I build reporting that people actually use and numbers that hold up when someone checks them.
 
@@ -27,6 +27,3 @@ Open to data roles and to freelance work on:
 - BI dashboards and data models in Power BI or Tableau
 - reconciling reports that don't match across systems
 - KPI and reporting for ISO-certified quality management systems
-[![Linkedin Badge](https://img.shields.io/badge/-matteomastropasqua-blue?style=plastic&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matteomastropasqua)](http://www.linkedin.com/in/matteomastropasqua) 
---- 
-
