@@ -1,6 +1,8 @@
-# Matteo Mastropasqua
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Matteo Mastropasqua, Senior Data Analyst · Business Intelligence · Data Quality" src="assets/banner-light.svg" width="100%">
+</picture>
 
-**Senior Data Analyst · Business Intelligence · Data Quality**
 Remote, based in Italy · [LinkedIn](https://www.linkedin.com/in/matteomastropasqua) · [Email](mailto:mastropasquamatteo@gmail.com)
 
 I build reporting that people actually use and numbers that hold up when someone checks them.
